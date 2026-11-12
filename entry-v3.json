@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "label": "化学・糖・amino acid・protein",
+  "files": [
+    "./chemistry-2017-2026-v3.json",
+    "./amino-protein-detection-v3.json",
+    "./sugar-detection-v3.json",
+    "./sugar-names-v3.json",
+    "./amino-acid-names-v3.json"
+  ]
+}

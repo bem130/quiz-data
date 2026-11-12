@@ -1,0 +1,7 @@
+{
+    "version": 3,
+    "label": "quiz-data",
+    "files": [
+        "./standalone-choice-v3.json"
+    ]
+}

@@ -7,13 +7,13 @@
 アプリの「ユーザー・表示・問題一覧」→「問題一覧のURL」へ次のURLを入力し、「問題一覧を読み込む」を押す。
 
 ```text
-https://raw.githubusercontent.com/bem130/quiz-data/main/entry-v3.json
+https://bem130.github.io/quiz-data/entry-v3.json
 ```
 
-GitHub Pagesを`main`ブランチのルートから配信すると、次のURLでも読み込める。
+GitHub Actionsが`main`へのpushでGitHub Pagesへ自動公開する。Raw URLからも読み込める。
 
 ```text
-https://bem130.github.io/quiz-data/entry-v3.json
+https://raw.githubusercontent.com/bem130/quiz-data/main/entry-v3.json
 ```
 
 一覧ファイル名は`entry-v3.json`である。`entry.json`も同じ5種類を参照する互換用の入口として維持する。

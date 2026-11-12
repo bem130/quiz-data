@@ -1,0 +1,57 @@
+name: Deploy quiz data to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate question manifests
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root = Path.cwd().resolve()
+          entry = json.loads(Path("entry-v3.json").read_text(encoding="utf-8"))
+          assert entry["version"] == 3
+          assert len(entry["files"]) == 5
+          assert len(set(entry["files"])) == 5
+          for name in entry["files"]:
+              path = (root / name).resolve()
+              assert path.is_relative_to(root)
+              quiz = json.loads(path.read_text(encoding="utf-8"))
+              assert quiz["version"] == 3
+              assert quiz["table"] and quiz["patterns"]
+          assert json.loads(Path("entry.json").read_text(encoding="utf-8")) == entry
+          print("Validated both manifests and all five question files.")
+          PY
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

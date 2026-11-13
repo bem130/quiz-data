@@ -25,10 +25,14 @@ https://raw.githubusercontent.com/bem130/quiz-data/main/entry-v3.json
 | `chemistry-2017-2026-v3.json` | 2017–2026年の出題論点に基づく独自演習 | 137 |
 | `amino-protein-detection-v3.json` | amino acid・proteinの検出反応 | 24 |
 | `sugar-detection-v3.json` | 糖類の検出反応・加水分解・電子収支 | 24 |
-| `sugar-names-v3.json` | 糖の構造と名称 | 10 |
-| `amino-acid-names-v3.json` | 標準amino acid 20種の骨格構造と名称 | 20 |
+| `sugar-names-v3.json` | 糖10種の構造と名称・双方向 | 20 |
+| `amino-acid-names-v3.json` | 標準amino acid 20種の構造と名称・双方向 | 40 |
 
-合計215問。構造式SVG、反応式、解説、出典は各JSONに収録する。
+合計245問。構造式SVG、反応式、解説、出典は各JSONに収録する。
+
+糖の環構造・anomer・glycosidic結合にはHaworth投影式、鎖状構造・立体配置の比較にはFischer投影式を用いる。反応位置や結合位置の説明に必要な炭素番号を図に付記する。
+
+名称問題では各糖・amino acidをtableの1行として、名前と構造を一対一に対応づける。`choice_from_entities`で他の行から選択肢を生成し、構造から名称、名称から構造の両方向を出題する。
 
 `standalone-choice-v3.json`は通常の択一問題のサンプルとして残している。一覧には上記5種類を登録している。
 

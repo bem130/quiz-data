@@ -32,6 +32,8 @@ https://raw.githubusercontent.com/bem130/quiz-data/main/entry-v3.json
 
 糖の環構造・anomer・glycosidic結合にはHaworth投影式、鎖状構造・立体配置の比較にはFischer投影式を用いる。反応位置や結合位置の説明に必要な炭素番号を図に付記する。
 
+Haworth図は下側を手前とする視点に揃え、奥側の環結合を細線、左右の手前へ向かう辺をwedge、最前の辺を太線で描く。図示の基準は[IUPAC ST-1.9](https://iupac.qmul.ac.uk/drawing/stereo.html#ST19)および[2-Carb-5.4・5.5](https://iupac.qmul.ac.uk/2carb/05.html)である。
+
 名称問題では各糖・amino acidをtableの1行として、名前と構造を一対一に対応づける。`choice_from_entities`で他の行から選択肢を生成し、構造から名称、名称から構造の両方向を出題する。
 
 `standalone-choice-v3.json`は通常の択一問題のサンプルとして残している。一覧には上記5種類を登録している。

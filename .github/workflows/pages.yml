@@ -32,8 +32,8 @@ jobs:
           root = Path.cwd().resolve()
           entry = json.loads(Path("entry-v3.json").read_text(encoding="utf-8"))
           assert entry["version"] == 3
-          assert len(entry["files"]) == 5
-          assert len(set(entry["files"])) == 5
+          assert entry["files"]
+          assert len(set(entry["files"])) == len(entry["files"])
           for name in entry["files"]:
               path = (root / name).resolve()
               assert path.is_relative_to(root)
@@ -41,7 +41,7 @@ jobs:
               assert quiz["version"] == 3
               assert quiz["table"] and quiz["patterns"]
           assert json.loads(Path("entry.json").read_text(encoding="utf-8")) == entry
-          print("Validated both manifests and all five question files.")
+          print(f"Validated both manifests and {len(entry['files'])} question files.")
           PY
 
       - name: Configure Pages

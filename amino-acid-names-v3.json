@@ -13,14 +13,36 @@
         {
           "type": "br"
         },
-        "Glycineのα炭素のHを1個methyl基に置き換えた構造がAlanineである。"
+        "Glycineのα炭素のHを1個methyl基に置き換えた構造がAlanineである。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：ギリシア語glykys（甘い）に由来し、結晶の甘味に対応する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：カイコの絹fibroinに、タンパク質を構成するGlycine残基として多く含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/11391774/"
       ],
       "explanationFigures": [
         {
@@ -75,14 +97,40 @@
         {
           "type": "br"
         },
-        "Glycineのα炭素のHを1個methyl基に置き換えた構造である。側鎖−CH₃のHを1個OHに置き換えるとSerineの−CH₂OHに対応する。"
+        "Glycineのα炭素のHを1個methyl基に置き換えた構造である。側鎖−CH₃のHを1個OHに置き換えるとSerineの−CH₂OHに対応する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：合成原料のaldehydeに由来する名称である。Streckerはacetaldehydeを用いてAlanineを合成した。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：カイコの絹fibroinに、タンパク質を構成するAlanine残基として多く含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.merriam-webster.com/dictionary/alanine",
+        {
+          "type": "br"
+        },
+        "https://api.pageplace.de/preview/DT0400.9781000412000_A41151065/preview-9781000412000_A41151065.pdf",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/11391774/"
       ],
       "explanationFigures": [
         {
@@ -152,14 +200,36 @@
         {
           "type": "br"
         },
-        "Leucineの側鎖は−CH₂−CH(CH₃)₂であり、α炭素と分岐点の間にCH₂が1個入る。"
+        "Leucineの側鎖は−CH₂−CH(CH₃)₂であり、α炭素と分岐点の間にCH₂が1個入る。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：名称はvaleric acidに由来する。構造上は、isovaleric acidのα位にamino基を導入した化合物に相当する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：牛乳のcaseinに、タンパク質を構成するValine残基として含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.merriam-webster.com/dictionary/valine",
+        {
+          "type": "br"
+        },
+        "https://link.springer.com/article/10.1007/s00726-018-2640-5"
       ],
       "explanationFigures": [
         {
@@ -214,14 +284,36 @@
         {
           "type": "br"
         },
-        "Isoleucineの側鎖は−CH(CH₃)−CH₂−CH₃である。両者は同じ分子式をもつ構造異性体であり、側鎖の分岐位置が異なる。"
+        "Isoleucineの側鎖は−CH(CH₃)−CH₂−CH₃である。両者は同じ分子式をもつ構造異性体であり、側鎖の分岐位置が異なる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：ギリシア語leukos（白い）に由来し、結晶の白色に対応する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：牛乳のcaseinに、タンパク質を構成するLeucine残基として含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://link.springer.com/article/10.1007/s00726-018-2640-5"
       ],
       "explanationFigures": [
         {
@@ -291,14 +383,40 @@
         {
           "type": "br"
         },
-        "Leucineの側鎖は−CH₂−CH(CH₃)₂であり、CH₂を1個経て分岐する。両者は同じ分子式をもつ構造異性体である。"
+        "Leucineの側鎖は−CH₂−CH(CH₃)₂であり、CH₂を1個経て分岐する。両者は同じ分子式をもつ構造異性体である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：名称はiso-とLeucineを組み合わせたものである。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：牛乳のcaseinに、タンパク質を構成するIsoleucine残基として含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://www.collinsdictionary.com/dictionary/english/isoleucine",
+        {
+          "type": "br"
+        },
+        "https://link.springer.com/article/10.1007/s00726-018-2640-5"
       ],
       "explanationFigures": [
         {
@@ -353,14 +471,55 @@
         {
           "type": "br"
         },
-        "Cysteineの側鎖−CH₂SHとはOとSが対応する。Threonineの側鎖−CH(OH)−CH₃は、Serineの側鎖炭素に結合するHを1個methyl基に置き換えた構造に相当する。"
+        "Cysteineの側鎖−CH₂SHとはOとSが対応する。Threonineの側鎖−CH(OH)−CH₃は、Serineの側鎖炭素に結合するHを1個methyl基に置き換えた構造に相当する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：絹を意味するラテン語sericumに由来し、絹のタンパク質sericinからの単離と関係する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：カイコの絹fibroinに、タンパク質を構成するSerine残基として含まれる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Protein中のSerine・Threonine・Tyrosine残基の側鎖OHは、protein kinaseによるphosphorylationの部位となる。ATPからphosphoryl基が移り、側鎖にO−P結合をもつphosphate esterが形成される。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://api.pageplace.de/preview/DT0400.9781000412000_A41151065/preview-9781000412000_A41151065.pdf",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/11391774/",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC2/7/11/1.html",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC2/7/10/2.html"
       ],
       "explanationFigures": [
         {
@@ -445,14 +604,59 @@
         {
           "type": "br"
         },
-        "Serineの側鎖−CH₂OHの炭素に結合するHを1個methyl基に置き換えた構造に相当する。"
+        "Serineの側鎖−CH₂OHの炭素に結合するHを1個methyl基に置き換えた構造に相当する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：糖D-threoseとの立体配置の対応に基づいて命名された。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：牛乳のcaseinに、タンパク質を構成するThreonine残基として含まれる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Protein中のSerine・Threonine・Tyrosine残基の側鎖OHは、protein kinaseによるphosphorylationの部位となる。ATPからphosphoryl基が移り、側鎖にO−P結合をもつphosphate esterが形成される。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://nap.nationalacademies.org/resource/biomems/wrose.html",
+        {
+          "type": "br"
+        },
+        "https://thesis.library.caltech.edu/17126/1/Teas_HJ_1947.pdf",
+        {
+          "type": "br"
+        },
+        "https://www.researchgate.net/publication/232314093_THE_SPATIAL_CONFIGURATION_OF_a-AMINO-b-HYDROXY-n-BUTYRIC_ACID",
+        {
+          "type": "br"
+        },
+        "https://link.springer.com/article/10.1007/s00726-018-2640-5",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC2/7/11/1.html",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC2/7/10/2.html"
       ],
       "explanationFigures": [
         {
@@ -507,14 +711,55 @@
         {
           "type": "br"
         },
-        "Serineの側鎖−CH₂OHとはOとSが対応する。Serineはhydroxy基、Cysteineはthiol基をもつ。"
+        "Serineの側鎖−CH₂OHとはOとSが対応する。Serineはhydroxy基、Cysteineはthiol基をもつ。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Cystineから派生した名称である。Cystineは、膀胱を意味するギリシア語kystisに由来し、膀胱結石からの単離に関係する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：毛髪のkeratinにCysteine残基として含まれ、残基間のdisulfide結合による架橋を形成する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Cysteineのthiol基の酸化でS−S結合が形成され、Cystineを生じる。酸化半反応は2 R−SH → R−S−S−R + 2 H⁺ + 2 e⁻である。Protein中のCysteine残基間にもS−S架橋が形成される。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/21876281/",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/22683767/",
+        {
+          "type": "br"
+        },
+        "https://doi.org/10.1016/j.jsb.2012.05.020",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/5836328/"
       ],
       "explanationFigures": [
         {
@@ -546,6 +791,21 @@
           "type": "svg",
           "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"340\" viewBox=\"0 0 360 340\">\n\n<rect style=\"opacity:1.0;fill:#FFFFFF;stroke:none\" width=\"360.0\" height=\"340.0\" x=\"0.0\" y=\"0.0\"> </rect>\n<path class=\"bond-0 atom-0 atom-1\" d=\"M 129.3,150.2 L 163.4,169.9\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path class=\"bond-1 atom-1 atom-2\" d=\"M 163.4,169.9 L 163.4,217.9\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path class=\"bond-2 atom-2 atom-3\" d=\"M 163.4,217.9 L 130.5,236.8\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path class=\"bond-3 atom-1 atom-4\" d=\"M 163.4,169.9 L 204.9,145.9\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path class=\"bond-4 atom-4 atom-5\" d=\"M 208.5,148.0 L 208.5,107.6\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path class=\"bond-4 atom-4 atom-5\" d=\"M 201.3,148.0 L 201.3,107.6\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path class=\"bond-5 atom-4 atom-6\" d=\"M 204.9,145.9 L 237.8,164.8\" style=\"fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\" />\n<path d=\"M 163.4,215.5 L 163.4,217.9 L 161.7,218.8\" style=\"fill:none;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;\" />\n<path d=\"M 202.9,147.1 L 204.9,145.9 L 206.6,146.8\" style=\"fill:none;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;\" />\n<path class=\"atom-0\" d=\"M 91.7 138.1 L 93.8 138.1 L 93.8 144.7 L 101.8 144.7 L 101.8 138.1 L 103.9 138.1 L 103.9 153.7 L 101.8 153.7 L 101.8 146.5 L 93.8 146.5 L 93.8 153.7 L 91.7 153.7 L 91.7 138.1 \" fill=\"#000000\" />\n<path class=\"atom-0\" d=\"M 107.0 153.1 Q 107.3 152.1, 108.2 151.6 Q 109.1 151.1, 110.4 151.1 Q 112.0 151.1, 112.8 151.9 Q 113.7 152.7, 113.7 154.2 Q 113.7 155.8, 112.6 157.2 Q 111.4 158.6, 109.1 160.3 L 113.9 160.3 L 113.9 161.5 L 106.9 161.5 L 106.9 160.5 Q 108.9 159.1, 110.0 158.1 Q 111.1 157.1, 111.7 156.2 Q 112.2 155.3, 112.2 154.3 Q 112.2 153.3, 111.7 152.8 Q 111.3 152.2, 110.4 152.2 Q 109.6 152.2, 109.0 152.6 Q 108.5 152.9, 108.1 153.6 L 107.0 153.1 \" fill=\"#000000\" />\n<path class=\"atom-0\" d=\"M 118.4 138.1 L 123.5 146.3 Q 124.0 147.2, 124.8 148.6 Q 125.6 150.1, 125.6 150.2 L 125.6 138.1 L 127.7 138.1 L 127.7 153.7 L 125.6 153.7 L 120.1 144.6 Q 119.5 143.6, 118.8 142.4 Q 118.1 141.2, 117.9 140.8 L 117.9 153.7 L 115.9 153.7 L 115.9 138.1 L 118.4 138.1 \" fill=\"#000000\" />\n<path class=\"atom-3\" d=\"M 99.3 234.2 L 101.4 234.2 L 101.4 240.8 L 109.3 240.8 L 109.3 234.2 L 111.5 234.2 L 111.5 249.8 L 109.3 249.8 L 109.3 242.6 L 101.4 242.6 L 101.4 249.8 L 99.3 249.8 L 99.3 234.2 \" fill=\"#000000\" />\n<path class=\"atom-3\" d=\"M 114.6 241.9 Q 114.6 238.2, 116.5 236.1 Q 118.3 234.0, 121.8 234.0 Q 125.2 234.0, 127.1 236.1 Q 128.9 238.2, 128.9 241.9 Q 128.9 245.7, 127.1 247.9 Q 125.2 250.0, 121.8 250.0 Q 118.4 250.0, 116.5 247.9 Q 114.6 245.7, 114.6 241.9 M 121.8 248.2 Q 124.2 248.2, 125.4 246.7 Q 126.7 245.0, 126.7 241.9 Q 126.7 238.9, 125.4 237.3 Q 124.2 235.8, 121.8 235.8 Q 119.4 235.8, 118.1 237.3 Q 116.8 238.8, 116.8 241.9 Q 116.8 245.1, 118.1 246.7 Q 119.4 248.2, 121.8 248.2 \" fill=\"#000000\" />\n<path class=\"atom-5\" d=\"M 197.8 97.9 Q 197.8 94.2, 199.6 92.1 Q 201.5 90.0, 204.9 90.0 Q 208.4 90.0, 210.2 92.1 Q 212.1 94.2, 212.1 97.9 Q 212.1 101.7, 210.2 103.9 Q 208.3 106.0, 204.9 106.0 Q 201.5 106.0, 199.6 103.9 Q 197.8 101.7, 197.8 97.9 M 204.9 104.2 Q 207.3 104.2, 208.6 102.7 Q 209.9 101.0, 209.9 97.9 Q 209.9 94.9, 208.6 93.3 Q 207.3 91.8, 204.9 91.8 Q 202.6 91.8, 201.3 93.3 Q 200.0 94.8, 200.0 97.9 Q 200.0 101.1, 201.3 102.7 Q 202.6 104.2, 204.9 104.2 \" fill=\"#000000\" />\n<path class=\"atom-6\" d=\"M 239.4 169.9 Q 239.4 166.2, 241.2 164.1 Q 243.0 162.0, 246.5 162.0 Q 250.0 162.0, 251.8 164.1 Q 253.7 166.2, 253.7 169.9 Q 253.7 173.7, 251.8 175.9 Q 249.9 178.0, 246.5 178.0 Q 243.1 178.0, 241.2 175.9 Q 239.4 173.7, 239.4 169.9 M 246.5 176.2 Q 248.9 176.2, 250.2 174.7 Q 251.5 173.0, 251.5 169.9 Q 251.5 166.9, 250.2 165.3 Q 248.9 163.8, 246.5 163.8 Q 244.1 163.8, 242.8 165.3 Q 241.6 166.8, 241.6 169.9 Q 241.6 173.1, 242.8 174.7 Q 244.1 176.2, 246.5 176.2 \" fill=\"#000000\" />\n<path class=\"atom-6\" d=\"M 256.1 162.2 L 258.2 162.2 L 258.2 168.8 L 266.2 168.8 L 266.2 162.2 L 268.3 162.2 L 268.3 177.8 L 266.2 177.8 L 266.2 170.6 L 258.2 170.6 L 258.2 177.8 L 256.1 177.8 L 256.1 162.2 \" fill=\"#000000\" />\n</svg>",
           "alt": "amino acidの骨格構造式"
+        },
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "酸化生成物：Cystine",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<?xml version='1.0' encoding='iso-8859-1'?>\n<svg version='1.1' baseProfile='full'\n              xmlns='http://www.w3.org/2000/svg'\n                      xmlns:rdkit='http://www.rdkit.org/xml'\n                      xmlns:xlink='http://www.w3.org/1999/xlink'\n                  xml:space='preserve'\nwidth='360px' height='260px' viewBox='0 0 360 260'>\n<!-- END OF HEADER -->\n<rect style='opacity:1.0;fill:#FFFFFF;stroke:none' width='360.0' height='260.0' x='0.0' y='0.0'> </rect>\n<path class='bond-3 atom-3 atom-4' d='M 192.0,116.8 L 195.0,122.0 L 168.2,137.4 L 165.3,132.3 Z' style='fill:#FFD84C;fill-rule:evenodd;fill-opacity:1;stroke:#FFD84C;stroke-width:0.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<ellipse cx='166.8' cy='134.9' rx='6.2' ry='8.0' class='atom-3'  style='fill:#FFD84C;fill-rule:evenodd;stroke:#FFD84C;stroke-width:1.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<ellipse cx='193.5' cy='119.5' rx='6.2' ry='8.0' class='atom-4'  style='fill:#FFD84C;fill-rule:evenodd;stroke:#FFD84C;stroke-width:1.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-0 atom-0 atom-1' d='M 113.3,159.2 L 113.3,134.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-1 atom-1 atom-2' d='M 113.3,134.8 L 140.0,119.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-2 atom-2 atom-3' d='M 140.0,119.4 L 161.9,132.0' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-3 atom-3 atom-4' d='M 171.6,132.0 L 188.6,122.2' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-4 atom-4 atom-5' d='M 198.3,122.2 L 220.2,134.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-5 atom-5 atom-6' d='M 220.2,134.8 L 246.9,119.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-6 atom-6 atom-7' d='M 246.9,119.4 L 246.9,95.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-7 atom-6 atom-8' d='M 246.9,119.4 L 273.7,134.8' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-8 atom-8 atom-9' d='M 271.3,133.5 L 271.3,159.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-8 atom-8 atom-9' d='M 276.0,133.5 L 276.0,159.1' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-9 atom-8 atom-10' d='M 273.7,134.8 L 294.3,122.9' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-10 atom-1 atom-11' d='M 113.3,134.8 L 86.6,119.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-11 atom-11 atom-12' d='M 88.9,120.7 L 88.9,95.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-11 atom-11 atom-12' d='M 84.3,120.7 L 84.3,95.4' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path class='bond-12 atom-11 atom-13' d='M 86.6,119.4 L 65.9,131.3' style='fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />\n<path d='M 138.7,120.2 L 140.0,119.4 L 141.1,120.0' style='fill:none;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 219.1,134.2 L 220.2,134.8 L 221.5,134.1' style='fill:none;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 272.3,134.1 L 273.7,134.8 L 274.7,134.2' style='fill:none;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path d='M 87.9,120.2 L 86.6,119.4 L 85.5,120.0' style='fill:none;stroke:#000000;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />\n<path class='atom-0' d='M 109.2 160.2\nL 111.2 160.2\nL 116.0 169.3\nL 116.0 160.2\nL 117.4 160.2\nL 117.4 171.1\nL 115.4 171.1\nL 110.6 162.0\nL 110.6 171.1\nL 109.2 171.1\nL 109.2 160.2\n' fill='#000000'/>\n<path class='atom-0' d='M 119.7 160.2\nL 121.2 160.2\nL 121.2 164.7\nL 126.5 164.7\nL 126.5 160.2\nL 128.0 160.2\nL 128.0 171.1\nL 126.5 171.1\nL 126.5 165.9\nL 121.2 165.9\nL 121.2 171.1\nL 119.7 171.1\nL 119.7 160.2\n' fill='#000000'/>\n<path class='atom-0' d='M 131.5 175.8\nL 134.9 175.8\nL 134.9 176.6\nL 130.3 176.6\nL 130.3 175.8\nQ 130.8 175.2, 131.8 174.2\nQ 132.8 173.3, 133.0 173.0\nQ 133.5 172.5, 133.7 172.1\nQ 133.8 171.7, 133.8 171.4\nQ 133.8 170.8, 133.4 170.4\nQ 133.0 170.1, 132.4 170.1\nQ 131.9 170.1, 131.4 170.2\nQ 130.9 170.4, 130.3 170.7\nL 130.3 169.7\nQ 130.9 169.5, 131.4 169.4\nQ 131.9 169.3, 132.4 169.3\nQ 133.5 169.3, 134.2 169.8\nQ 134.8 170.4, 134.8 171.3\nQ 134.8 171.8, 134.7 172.2\nQ 134.5 172.6, 134.1 173.1\nQ 133.9 173.2, 133.3 173.9\nQ 132.6 174.6, 131.5 175.8\n' fill='#000000'/>\n<path class='atom-3' d='M 169.9 129.8\nL 169.9 131.3\nQ 169.1 130.9, 168.4 130.7\nQ 167.6 130.5, 166.9 130.5\nQ 165.7 130.5, 165.0 130.9\nQ 164.4 131.4, 164.4 132.3\nQ 164.4 133.0, 164.8 133.4\nQ 165.3 133.7, 166.5 134.0\nL 167.4 134.1\nQ 169.0 134.5, 169.8 135.3\nQ 170.6 136.0, 170.6 137.4\nQ 170.6 139.0, 169.5 139.8\nQ 168.5 140.6, 166.4 140.6\nQ 165.6 140.6, 164.8 140.4\nQ 163.9 140.3, 162.9 139.9\nL 162.9 138.4\nQ 163.8 138.9, 164.7 139.1\nQ 165.6 139.4, 166.4 139.4\nQ 167.7 139.4, 168.4 138.9\nQ 169.1 138.4, 169.1 137.5\nQ 169.1 136.7, 168.6 136.2\nQ 168.1 135.8, 166.9 135.5\nL 166.0 135.4\nQ 164.4 135.0, 163.6 134.3\nQ 162.9 133.6, 162.9 132.4\nQ 162.9 130.9, 163.9 130.1\nQ 164.9 129.3, 166.7 129.3\nQ 167.5 129.3, 168.3 129.4\nQ 169.1 129.5, 169.9 129.8\n' fill='#000000'/>\n<path class='atom-4' d='M 196.7 114.4\nL 196.7 115.8\nQ 195.8 115.4, 195.1 115.2\nQ 194.3 115.0, 193.6 115.0\nQ 192.4 115.0, 191.8 115.5\nQ 191.1 116.0, 191.1 116.8\nQ 191.1 117.6, 191.5 117.9\nQ 192.0 118.3, 193.2 118.5\nL 194.1 118.7\nQ 195.8 119.0, 196.5 119.8\nQ 197.3 120.6, 197.3 122.0\nQ 197.3 123.5, 196.3 124.4\nQ 195.2 125.2, 193.1 125.2\nQ 192.4 125.2, 191.5 125.0\nQ 190.6 124.8, 189.7 124.5\nL 189.7 123.0\nQ 190.6 123.5, 191.4 123.7\nQ 192.3 124.0, 193.1 124.0\nQ 194.4 124.0, 195.1 123.5\nQ 195.8 123.0, 195.8 122.1\nQ 195.8 121.3, 195.3 120.8\nQ 194.8 120.4, 193.7 120.1\nL 192.8 119.9\nQ 191.1 119.6, 190.4 118.9\nQ 189.6 118.2, 189.6 117.0\nQ 189.6 115.5, 190.6 114.7\nQ 191.7 113.8, 193.5 113.8\nQ 194.2 113.8, 195.0 114.0\nQ 195.8 114.1, 196.7 114.4\n' fill='#000000'/>\n<path class='atom-7' d='M 242.8 83.1\nL 244.8 83.1\nL 249.6 92.2\nL 249.6 83.1\nL 251.1 83.1\nL 251.1 94.0\nL 249.1 94.0\nL 244.2 84.9\nL 244.2 94.0\nL 242.8 94.0\nL 242.8 83.1\n' fill='#000000'/>\n<path class='atom-7' d='M 253.3 83.1\nL 254.8 83.1\nL 254.8 87.6\nL 260.2 87.6\nL 260.2 83.1\nL 261.7 83.1\nL 261.7 94.0\nL 260.2 94.0\nL 260.2 88.8\nL 254.8 88.8\nL 254.8 94.0\nL 253.3 94.0\nL 253.3 83.1\n' fill='#000000'/>\n<path class='atom-7' d='M 265.1 98.7\nL 268.5 98.7\nL 268.5 99.5\nL 263.9 99.5\nL 263.9 98.7\nQ 264.5 98.1, 265.4 97.1\nQ 266.4 96.2, 266.6 95.9\nQ 267.1 95.4, 267.3 95.0\nQ 267.5 94.6, 267.5 94.3\nQ 267.5 93.7, 267.1 93.3\nQ 266.7 93.0, 266.0 93.0\nQ 265.6 93.0, 265.1 93.1\nQ 264.5 93.3, 264.0 93.6\nL 264.0 92.6\nQ 264.6 92.4, 265.1 92.3\nQ 265.6 92.2, 266.0 92.2\nQ 267.1 92.2, 267.8 92.7\nQ 268.5 93.3, 268.5 94.2\nQ 268.5 94.7, 268.3 95.1\nQ 268.1 95.5, 267.7 96.0\nQ 267.6 96.1, 266.9 96.8\nQ 266.3 97.5, 265.1 98.7\n' fill='#000000'/>\n<path class='atom-9' d='M 273.7 161.3\nQ 272.1 161.3, 271.1 162.5\nQ 270.2 163.7, 270.2 165.8\nQ 270.2 167.8, 271.1 169.0\nQ 272.1 170.2, 273.7 170.2\nQ 275.3 170.2, 276.2 169.0\nQ 277.2 167.8, 277.2 165.8\nQ 277.2 163.7, 276.2 162.5\nQ 275.3 161.3, 273.7 161.3\nM 273.7 160.1\nQ 276.0 160.1, 277.3 161.6\nQ 278.7 163.2, 278.7 165.8\nQ 278.7 168.4, 277.3 169.9\nQ 276.0 171.4, 273.7 171.4\nQ 271.4 171.4, 270.0 169.9\nQ 268.6 168.4, 268.6 165.8\nQ 268.6 163.2, 270.0 161.6\nQ 271.4 160.1, 273.7 160.1\n' fill='#000000'/>\n<path class='atom-10' d='M 300.4 115.0\nQ 298.8 115.0, 297.8 116.2\nQ 296.9 117.4, 296.9 119.5\nQ 296.9 121.6, 297.8 122.8\nQ 298.8 124.0, 300.4 124.0\nQ 302.0 124.0, 302.9 122.8\nQ 303.9 121.6, 303.9 119.5\nQ 303.9 117.4, 302.9 116.2\nQ 302.0 115.0, 300.4 115.0\nM 300.4 113.8\nQ 302.7 113.8, 304.1 115.4\nQ 305.4 116.9, 305.4 119.5\nQ 305.4 122.1, 304.1 123.6\nQ 302.7 125.2, 300.4 125.2\nQ 298.1 125.2, 296.7 123.6\nQ 295.3 122.1, 295.3 119.5\nQ 295.3 116.9, 296.7 115.4\nQ 298.1 113.8, 300.4 113.8\n' fill='#000000'/>\n<path class='atom-10' d='M 307.2 114.0\nL 308.7 114.0\nL 308.7 118.5\nL 314.1 118.5\nL 314.1 114.0\nL 315.5 114.0\nL 315.5 125.0\nL 314.1 125.0\nL 314.1 119.8\nL 308.7 119.8\nL 308.7 125.0\nL 307.2 125.0\nL 307.2 114.0\n' fill='#000000'/>\n<path class='atom-12' d='M 86.6 84.2\nQ 85.0 84.2, 84.0 85.4\nQ 83.1 86.6, 83.1 88.7\nQ 83.1 90.7, 84.0 91.9\nQ 85.0 93.1, 86.6 93.1\nQ 88.2 93.1, 89.1 91.9\nQ 90.1 90.7, 90.1 88.7\nQ 90.1 86.6, 89.1 85.4\nQ 88.2 84.2, 86.6 84.2\nM 86.6 83.0\nQ 88.9 83.0, 90.3 84.5\nQ 91.6 86.1, 91.6 88.7\nQ 91.6 91.3, 90.3 92.8\nQ 88.9 94.3, 86.6 94.3\nQ 84.3 94.3, 82.9 92.8\nQ 81.5 91.3, 81.5 88.7\nQ 81.5 86.1, 82.9 84.5\nQ 84.3 83.0, 86.6 83.0\n' fill='#000000'/>\n<path class='atom-13' d='M 44.1 129.5\nL 45.5 129.5\nL 45.5 133.9\nL 50.9 133.9\nL 50.9 129.5\nL 52.4 129.5\nL 52.4 140.4\nL 50.9 140.4\nL 50.9 135.2\nL 45.5 135.2\nL 45.5 140.4\nL 44.1 140.4\nL 44.1 129.5\n' fill='#000000'/>\n<path class='atom-13' d='M 59.8 130.5\nQ 58.2 130.5, 57.3 131.7\nQ 56.3 132.9, 56.3 134.9\nQ 56.3 137.0, 57.3 138.2\nQ 58.2 139.4, 59.8 139.4\nQ 61.5 139.4, 62.4 138.2\nQ 63.3 137.0, 63.3 134.9\nQ 63.3 132.9, 62.4 131.7\nQ 61.5 130.5, 59.8 130.5\nM 59.8 129.3\nQ 62.1 129.3, 63.5 130.8\nQ 64.9 132.3, 64.9 134.9\nQ 64.9 137.5, 63.5 139.1\nQ 62.1 140.6, 59.8 140.6\nQ 57.5 140.6, 56.2 139.1\nQ 54.8 137.5, 54.8 134.9\nQ 54.8 132.3, 56.2 130.8\nQ 57.5 129.3, 59.8 129.3\n' fill='#000000'/>\n</svg>\n",
+          "alt": "Cystineのdisulfide硫黄を着色し、carbonyl結合を鉛直に配置した骨格構造。"
         }
       ],
       "nameTokens": [
@@ -569,7 +829,21 @@
         {
           "type": "br"
         },
-        "Homocysteineの側鎖−CH₂−CH₂−SHのSに結合するHをmethyl基に置き換えた構造に相当する。HomocysteineはCysteineの−CH₂−SHに比べてCH₂が1個多い。"
+        "Homocysteineの側鎖−CH₂−CH₂−SHのSに結合するHをmethyl基に置き換えた構造に相当する。HomocysteineはCysteineの−CH₂−SHに比べてCH₂が1個多い。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：γ-methylthio-α-aminobutyric acidという構造名を短縮した名称であり、methyl基と硫黄を含む構造を反映する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：牛乳のcaseinに、タンパク質を構成するMethionine残基として含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
@@ -580,7 +854,27 @@
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AAap.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AAap.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://www.merriam-webster.com/dictionary/methionine",
+        {
+          "type": "br"
+        },
+        "https://doi.org/10.1007/s11084-010-9228-8",
+        {
+          "type": "br"
+        },
+        "https://link.springer.com/article/10.1007/s00726-018-2640-5",
+        {
+          "type": "br"
+        },
+        "https://portlandpress.com/biochemj/article-pdf/26/4/1270/788358/bj0261270.pdf"
       ],
       "explanationFigures": [
         {
@@ -635,14 +929,40 @@
         {
           "type": "br"
         },
-        "側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideがAsparagineであり、その側鎖は−CH₂−CONH₂である。"
+        "側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideがAsparagineであり、その側鎖は−CH₂−CONH₂である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Asparagineの加水分解で得られた酸であり、名称はAsparagineに由来する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：鶏卵白のOvalbuminを構成するAspartic acid残基として存在する。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.ppc.univ.gda.pl/periodic/",
+        {
+          "type": "br"
+        },
+        "https://chemtymology.co.uk/2019/03/02/asparagine-aspartate-glutamine-and-glutamate/",
+        {
+          "type": "br"
+        },
+        "https://rest.uniprot.org/uniprotkb/P01012.fasta"
       ],
       "explanationFigures": [
         {
@@ -712,14 +1032,55 @@
         {
           "type": "br"
         },
-        "側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideがGlutamineであり、その側鎖は−CH₂−CH₂−CONH₂である。"
+        "側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideがGlutamineであり、その側鎖は−CH₂−CH₂−CONH₂である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Glutamic acidのglut-は、単離材料となった小麦のGlutenに由来する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：昆布だし中に遊離Glutamateとして存在し、うま味を与える。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Glutamine synthetaseはATPを用い、L-glutamateの側鎖carboxy基にammoniaを取り込んでL-glutamineのamide基を形成する。総反応はL-glutamate + NH₃ + ATP → L-glutamine + ADP + phosphateである。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://hyperphysics.phy-astr.gsu.edu/hbase/Organic/glutamicacid.html",
+        {
+          "type": "br"
+        },
+        "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/prac.18660990156",
+        {
+          "type": "br"
+        },
+        "https://www.jpo.go.jp/e/introduction/rekishi/10hatsumeika/kikunae_ikeda.html",
+        {
+          "type": "br"
+        },
+        "https://ajcn.nutrition.org/article/S0002-9165%2823%2926531-4/fulltext",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC6/3/1/2.html"
       ],
       "explanationFigures": [
         {
@@ -789,14 +1150,44 @@
         {
           "type": "br"
         },
-        "Aspartic acidの側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideである。Glutamineの側鎖−CH₂−CH₂−CONH₂はCH₂が1個多い。"
+        "Aspartic acidの側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideである。Glutamineの側鎖−CH₂−CH₂−CONH₂はCH₂が1個多い。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Asparagineは、初めて単離されたAsparagusに由来する名称である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：Asparagusの汁に遊離Asparagineとして存在する。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://hyperphysics.phy-astr.gsu.edu/hbase/Organic/Asparagine.html",
+        {
+          "type": "br"
+        },
+        "https://journals.physiology.org/doi/10.1152/ajpcell.00316.2024",
+        {
+          "type": "br"
+        },
+        "https://www.sciencedirect.com/science/article/abs/pii/0020711X80902815",
+        {
+          "type": "br"
+        },
+        "https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7348.2006.00104.x"
       ],
       "explanationFigures": [
         {
@@ -866,14 +1257,51 @@
         {
           "type": "br"
         },
-        "Glutamic acidの側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideである。Asparagineの−CH₂−CONH₂に比べて、α炭素と側鎖のcarboxamide基の間のCH₂が1個多い。"
+        "Glutamic acidの側鎖のcarboxy基−COOHのOHをNH₂に置き換えたamideである。Asparagineの−CH₂−CONH₂に比べて、α炭素と側鎖のcarboxamide基の間のCH₂が1個多い。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Glutamic acidに対応するamideを表す名称である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：ヒトの血漿中に遊離Glutamineとして存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Glutamine synthetaseはATPを用い、L-glutamateの側鎖carboxy基にammoniaを取り込んでL-glutamineのamide基を形成する。総反応はL-glutamate + NH₃ + ATP → L-glutamine + ADP + phosphateである。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://portal.ct.gov/-/media/caes/documents/publications/bulletins/b399pdf.pdf?hash=9F3DFA88FA261785B5B51228B2AFA334&rev=83a2454df19740e8984c840ecc08ba48",
+        {
+          "type": "br"
+        },
+        "https://chemtymology.co.uk/2019/03/02/asparagine-aspartate-glutamine-and-glutamate/",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/16843324/",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC6/3/1/2.html"
       ],
       "explanationFigures": [
         {
@@ -936,14 +1364,78 @@
     {
       "id": "amino_14",
       "explanation": [
-        "Lysine。側鎖は(CH₂)₄NH₂であり、CH₂を4個経てamino基に達する。"
+        "Lysine。側鎖は(CH₂)₄NH₂であり、CH₂を4個経てamino基に達する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Lysineの名は、proteinを分解する過程にちなんだギリシャ語lysisに由来する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：鶏卵白のOvalbuminを構成するLysine残基として存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Trypsinは、protein中のLysine残基またはArginine残基のcarboxyl側のpeptide結合を優先的に加水分解する。当該残基の主鎖C(=O)−NH結合が切断され、LysineまたはArginineが生成したpeptide断片のC末端となる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Lysineの末端amino基、Arginineのguanidino基、Histidineのimidazole環は、protonを受け取る塩基性側鎖である。B + H⁺ ⇄ BH⁺の関係により正電荷をもつ形が生じる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.tsurumi.yokohama-cu.ac.jp/pdl/PDL/Writing/100_years_methionine.pdf",
+        {
+          "type": "br"
+        },
+        "https://www.ppc.univ.gda.pl/periodic/",
+        {
+          "type": "br"
+        },
+        "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/4/21/4.html",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/18067249/",
+        {
+          "type": "br"
+        },
+        "https://doi.org/10.1021/pr0705035",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4082993/",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4420524/",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9742302/"
       ],
       "explanationFigures": [
         {
@@ -980,14 +1472,78 @@
     {
       "id": "amino_15",
       "explanation": [
-        "Arginine。側鎖は(CH₂)₃NHC(=NH)NH₂であり、末端にguanidino基をもつ。"
+        "Arginine。側鎖は(CH₂)₃NHC(=NH)NH₂であり、末端にguanidino基をもつ。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "発見例：Yellow lupin（Lupinus luteus）の芽から単離された。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：鶏卵白のOvalbuminを構成するArginine残基として存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Trypsinは、protein中のLysine残基またはArginine残基のcarboxyl側のpeptide結合を優先的に加水分解する。当該残基の主鎖C(=O)−NH結合が切断され、LysineまたはArginineが生成したpeptide断片のC末端となる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Lysineの末端amino基、Arginineのguanidino基、Histidineのimidazole環は、protonを受け取る塩基性側鎖である。B + H⁺ ⇄ BH⁺の関係により正電荷をもつ形が生じる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cber.188601901266",
+        {
+          "type": "br"
+        },
+        "https://chemtymology.co.uk/2020/12/04/leucine-isoleucine-and-arginine/",
+        {
+          "type": "br"
+        },
+        "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/4/21/4.html",
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/18067249/",
+        {
+          "type": "br"
+        },
+        "https://doi.org/10.1021/pr0705035",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4082993/",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4420524/",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9742302/"
       ],
       "explanationFigures": [
         {
@@ -1031,14 +1587,59 @@
         {
           "type": "br"
         },
-        "Tryptophanも−CH₂−を介して芳香環につながり、その環はbenzene環とNを1個含む五員環が縮合したindole環である。"
+        "Tryptophanも−CH₂−を介して芳香環につながり、その環はbenzene環とNを1個含む五員環が縮合したindole環である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Histidineのhist-は、組織を意味するギリシャ語histosに由来する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：鶏卵白のOvalbuminを構成するHistidine残基として存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Lysineの末端amino基、Arginineのguanidino基、Histidineのimidazole環は、protonを受け取る塩基性側鎖である。B + H⁺ ⇄ BH⁺の関係により正電荷をもつ形が生じる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.dictionnaire-academie.fr/article/A9H0750",
+        {
+          "type": "br"
+        },
+        "https://www.academie-medecine.fr/le-dictionnaire/index.php?q=histidine",
+        {
+          "type": "br"
+        },
+        "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4082993/",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4420524/",
+        {
+          "type": "br"
+        },
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9742302/"
       ],
       "explanationFigures": [
         {
@@ -1093,14 +1694,47 @@
         {
           "type": "br"
         },
-        "Tyrosineは、このbenzene環のpara位にOHが結合した構造である。Para位は、CH₂が結合する環炭素を1位としたときの4位に当たる。"
+        "Tyrosineは、このbenzene環のpara位にOHが結合した構造である。Para位は、CH₂が結合する環炭素を1位としたときの4位に当たる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：名称はphenylとAlanineを組み合わせたものである。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：鶏卵白のOvalbuminを構成するPhenylalanine残基として存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Chymotrypsinは、Phenylalanine・Tyrosine・Tryptophanなどの疎水性残基のcarboxyl側のpeptide結合を優先的に加水分解する。芳香族側鎖の認識と、その残基の主鎖CO−NH結合の切断が対応する。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://chemtymology.co.uk/2020/11/14/alanine-and-phenylalanine/",
+        {
+          "type": "br"
+        },
+        "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/4/21/1.html"
       ],
       "explanationFigures": [
         {
@@ -1170,14 +1804,66 @@
         {
           "type": "br"
         },
-        "Phenylalanineのbenzene環に、CH₂の結合位置を基準としてpara位のOHが加わった構造である。Para位は、CH₂が結合する環炭素を1位としたときの4位に当たる。"
+        "Phenylalanineのbenzene環に、CH₂の結合位置を基準としてpara位のOHが加わった構造である。Para位は、CH₂が結合する環炭素を1位としたときの4位に当たる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Tyrosineは、Cheeseを意味するギリシャ語tyrosに由来する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：熟成したRoquefort cheeseでは、遊離Tyrosineが結晶として存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Chymotrypsinは、Phenylalanine・Tyrosine・Tryptophanなどの疎水性残基のcarboxyl側のpeptide結合を優先的に加水分解する。芳香族側鎖の認識と、その残基の主鎖CO−NH結合の切断が対応する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Protein中のSerine・Threonine・Tyrosine残基の側鎖OHは、protein kinaseによるphosphorylationの部位となる。ATPからphosphoryl基が移り、側鎖にO−P結合をもつphosphate esterが形成される。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.acs.org/molecule-of-the-week/archive/t/l-tyrosine.html",
+        {
+          "type": "br"
+        },
+        "https://www.ppc.univ.gda.pl/periodic/",
+        {
+          "type": "br"
+        },
+        "https://pubs.acs.org/doi/full/10.1021/ja02216a024",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/4/21/1.html",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC2/7/11/1.html",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC2/7/10/2.html"
       ],
       "explanationFigures": [
         {
@@ -1232,14 +1918,55 @@
         {
           "type": "br"
         },
-        "Histidineの側鎖は−CH₂−を介してimidazole環につながる。ImidazoleはNを2個含む五員環である。"
+        "Histidineの側鎖は−CH₂−を介してimidazole環につながる。ImidazoleはNを2個含む五員環である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Tryptophanは、proteinを分解した液に現れる発色成分に付けられた名称を引き継いでいる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：鶏卵白のOvalbuminを構成するTryptophan残基として存在する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "関連する反応：Chymotrypsinは、Phenylalanine・Tyrosine・Tryptophanなどの疎水性残基のcarboxyl側のpeptide結合を優先的に加水分解する。芳香族側鎖の認識と、その残基の主鎖CO−NH結合の切断が対応する。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.tsurumi.yokohama-cu.ac.jp/pdl/PDL/Writing/100_years_methionine.pdf",
+        {
+          "type": "br"
+        },
+        "https://chemtymology.co.uk/2019/01/27/tryptophane/",
+        {
+          "type": "br"
+        },
+        "https://theses.gla.ac.uk/79904/1/13905355.pdf",
+        {
+          "type": "br"
+        },
+        "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/4/21/1.html"
       ],
       "explanationFigures": [
         {
@@ -1294,14 +2021,40 @@
         {
           "type": "br"
         },
-        "PyrrolidineはNを1個と炭素を4個含む飽和五員環である。Prolineではα炭素とamino窒素がこの環に含まれ、α-amino部分はsecondary amineとなる。"
+        "PyrrolidineはNを1個と炭素を4個含む飽和五員環である。Prolineではα炭素とamino窒素がこの環に含まれ、α-amino部分はsecondary amineとなる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "名称の由来：Pyrrolidineを短縮した名称であり、分子内のpyrrolidine環に対応する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "存在例：牛の腱のcollagenに、タンパク質を構成するProline残基として多く含まれる。"
       ],
       "source": [
         "IUPAC-IUB, Nomenclature and Symbolism for Amino Acids and Peptides, 3AA-1, Table 1.",
         {
           "type": "br"
         },
-        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html"
+        "https://iupac.qmul.ac.uk/AminoAcid/AA1n2.html",
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        "https://www.merriam-webster.com/dictionary/proline",
+        {
+          "type": "br"
+        },
+        "https://doi.org/10.3390/ma13020358"
       ],
       "explanationFigures": [
         {

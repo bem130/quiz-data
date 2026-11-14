@@ -1,0 +1,1147 @@
+{
+  "version": 3,
+  "title": "糖：含有・構成成分と名称",
+  "description": "食品・生体成分・加水分解生成物から糖の名称を選ぶ。",
+  "table": [
+    {
+      "id": "occurrence_honey",
+      "conceptId": "honey",
+      "condition": [
+        "蜂蜜に主要成分として含まれる単糖の一つは"
+      ],
+      "answers": [
+        [
+          "D-Glucose"
+        ],
+        [
+          "D-Fructose"
+        ]
+      ],
+      "explanation": [
+        "蜂蜜の主要な単糖はD-GlucoseとD-Fructoseである。両者は分子式C₆H₁₂O₆をもち、鎖状形ではGlucoseがaldose、Fructoseがketoseである。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D-Glucose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"265.00,150.00 218.44,184.05 221.56,187.95\" fill=\"#111\"/><line x1=\"220.00\" y1=\"186.00\" x2=\"120.00\" y2=\"186.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"75.00,150.00 118.44,187.95 121.56,184.05\" fill=\"#111\"/><line x1=\"75.00\" y1=\"150.00\" x2=\"120.00\" y2=\"114.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"120.00\" y1=\"114.00\" x2=\"209.00\" y2=\"114.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"228.59\" y1=\"120.87\" x2=\"265.00\" y2=\"150.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"220.00\" y=\"114.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"265.00\" y1=\"150.00\" x2=\"265.00\" y2=\"191.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"258.20\" y=\"204.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"220.00\" y1=\"186.00\" x2=\"220.00\" y2=\"221.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"213.20\" y=\"234.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"120.00\" y1=\"186.00\" x2=\"120.00\" y2=\"151.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"113.20\" y=\"138.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"75.00\" y1=\"150.00\" x2=\"75.00\" y2=\"185.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"68.20\" y=\"198.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"120.00\" y1=\"114.00\" x2=\"120.00\" y2=\"57.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"113.20\" y=\"44.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"282.00\" y=\"131.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text></svg>",
+          "alt": "六員環糖のHaworth投影。環内にOがあり、C1・C2・C4のOHは下、C3のOHとCH₂OHは上。"
+        },
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D-Fructose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"255.00,146.00 219.91,194.62 224.09,197.38\" fill=\"#111\"/><line x1=\"222.00\" y1=\"196.00\" x2=\"118.00\" y2=\"196.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"85.00,146.00 115.91,197.38 120.09,194.62\" fill=\"#111\"/><line x1=\"85.00\" y1=\"146.00\" x2=\"160.23\" y2=\"107.06\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"179.77\" y1=\"107.06\" x2=\"255.00\" y2=\"146.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"170.00\" y=\"102.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"255.00\" y1=\"146.00\" x2=\"255.00\" y2=\"98.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"248.20\" y=\"85.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"255.00\" y1=\"146.00\" x2=\"280.00\" y2=\"190.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"280.80\" y=\"204.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"18.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><line x1=\"222.00\" y1=\"196.00\" x2=\"222.00\" y2=\"161.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"215.20\" y=\"148.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"118.00\" y1=\"196.00\" x2=\"118.00\" y2=\"231.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"111.20\" y=\"244.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"85.00\" y1=\"146.00\" x2=\"85.00\" y2=\"95.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"78.20\" y=\"82.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"272.00\" y=\"127.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C2</text></svg>",
+          "alt": "五員環糖のHaworth投影。C2にOHとCH₂OH、C5にもCH₂OHが結合。C2のOHとC3のOHは上、C4のOHとC2側のCH₂OHは下。"
+        }
+      ],
+      "source": [
+        "https://iupac.qmul.ac.uk/2carb/02.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/03n04.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://oyc.yale.edu/chemistry/chem-125b/lecture-37",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://learn.genetics.utah.edu/content/metabolism/sugar/",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.fao.org/4/w8079e/w8079e0h.htm",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC1/1/3/4.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.ncbi.nlm.nih.gov/mesh/68005949",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://guides.hostos.cuny.edu/che120/chapter6",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.acs.org/molecule-of-the-week/archive/f/fructose.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://ask.ifas.ufl.edu/publication/FS148",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC5/3/1/5.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/15157080/",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/1496860/"
+      ]
+    },
+    {
+      "id": "occurrence_fruit_ketose",
+      "conceptId": "fruit_ketose",
+      "condition": [
+        "果実や蜂蜜に含まれる代表的なketohexoseは"
+      ],
+      "answers": [
+        [
+          "D-Fructose"
+        ]
+      ],
+      "explanation": [
+        "D-Fructoseは果実や蜂蜜に遊離糖として含まれるketohexoseである。Fructusは果物を意味する。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D-Fructose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"255.00,146.00 219.91,194.62 224.09,197.38\" fill=\"#111\"/><line x1=\"222.00\" y1=\"196.00\" x2=\"118.00\" y2=\"196.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"85.00,146.00 115.91,197.38 120.09,194.62\" fill=\"#111\"/><line x1=\"85.00\" y1=\"146.00\" x2=\"160.23\" y2=\"107.06\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"179.77\" y1=\"107.06\" x2=\"255.00\" y2=\"146.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"170.00\" y=\"102.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"255.00\" y1=\"146.00\" x2=\"255.00\" y2=\"98.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"248.20\" y=\"85.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"255.00\" y1=\"146.00\" x2=\"280.00\" y2=\"190.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"280.80\" y=\"204.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"18.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><line x1=\"222.00\" y1=\"196.00\" x2=\"222.00\" y2=\"161.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"215.20\" y=\"148.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"118.00\" y1=\"196.00\" x2=\"118.00\" y2=\"231.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"111.20\" y=\"244.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"85.00\" y1=\"146.00\" x2=\"85.00\" y2=\"95.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"78.20\" y=\"82.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"272.00\" y=\"127.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C2</text></svg>",
+          "alt": "五員環糖のHaworth投影。C2にOHとCH₂OH、C5にもCH₂OHが結合。C2のOHとC3のOHは上、C4のOHとC2側のCH₂OHは下。"
+        }
+      ],
+      "source": [
+        "https://iupac.qmul.ac.uk/2carb/02.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/03n04.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://guides.hostos.cuny.edu/che120/chapter6",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.acs.org/molecule-of-the-week/archive/f/fructose.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://ask.ifas.ufl.edu/publication/FS148",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC5/3/1/5.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/15157080/",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubmed.ncbi.nlm.nih.gov/1496860/"
+      ]
+    },
+    {
+      "id": "occurrence_lactose_component",
+      "conceptId": "lactose_component",
+      "condition": [
+        "牛乳中のLactoseを加水分解すると、D-Glucoseとともに生じる単糖は"
+      ],
+      "answers": [
+        [
+          "D-Galactose"
+        ]
+      ],
+      "explanation": [
+        "LactoseはD-Galactose残基とD-Glucose残基からなる。Lactaseによる加水分解で両単糖が1分子ずつ生じる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D-Galactose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"265.00,150.00 218.44,184.05 221.56,187.95\" fill=\"#111\"/><line x1=\"220.00\" y1=\"186.00\" x2=\"120.00\" y2=\"186.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"75.00,150.00 118.44,187.95 121.56,184.05\" fill=\"#111\"/><line x1=\"75.00\" y1=\"150.00\" x2=\"120.00\" y2=\"114.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"120.00\" y1=\"114.00\" x2=\"209.00\" y2=\"114.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"228.59\" y1=\"120.87\" x2=\"265.00\" y2=\"150.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"220.00\" y=\"114.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"265.00\" y1=\"150.00\" x2=\"265.00\" y2=\"191.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"258.20\" y=\"204.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"220.00\" y1=\"186.00\" x2=\"220.00\" y2=\"221.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"213.20\" y=\"234.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"120.00\" y1=\"186.00\" x2=\"120.00\" y2=\"151.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"113.20\" y=\"138.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"75.00\" y1=\"150.00\" x2=\"75.00\" y2=\"115.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"68.20\" y=\"102.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"120.00\" y1=\"114.00\" x2=\"120.00\" y2=\"57.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"113.20\" y=\"44.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"282.00\" y=\"131.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text></svg>",
+          "alt": "六員環糖のHaworth投影。環内にOがあり、C1・C2のOHは下、C3・C4のOHとCH₂OHは上。"
+        }
+      ],
+      "source": [
+        "https://iupac.qmul.ac.uk/2carb/02.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/03n04.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.eng.kagawa-u.ac.jp/~tishii/raresugar/English%20ver/Galactose.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://guides.hostos.cuny.edu/che120/chapter6",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/108.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/23.html"
+      ]
+    },
+    {
+      "id": "occurrence_yeast_mannan",
+      "conceptId": "yeast_mannan",
+      "condition": [
+        "パン酵母の細胞壁のMannanを構成する主な単糖は"
+      ],
+      "answers": [
+        [
+          "D-Mannose"
+        ]
+      ],
+      "explanation": [
+        "パン酵母のMannanはD-Mannose残基を主な構成成分とするpolysaccharideである。MannoseはGlucoseのC2 epimerである。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D-Mannose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"265.00,150.00 218.44,184.05 221.56,187.95\" fill=\"#111\"/><line x1=\"220.00\" y1=\"186.00\" x2=\"120.00\" y2=\"186.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"75.00,150.00 118.44,187.95 121.56,184.05\" fill=\"#111\"/><line x1=\"75.00\" y1=\"150.00\" x2=\"120.00\" y2=\"114.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"120.00\" y1=\"114.00\" x2=\"209.00\" y2=\"114.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"228.59\" y1=\"120.87\" x2=\"265.00\" y2=\"150.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"220.00\" y=\"114.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"265.00\" y1=\"150.00\" x2=\"265.00\" y2=\"191.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"258.20\" y=\"204.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"220.00\" y1=\"186.00\" x2=\"220.00\" y2=\"151.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"213.20\" y=\"138.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"120.00\" y1=\"186.00\" x2=\"120.00\" y2=\"151.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"113.20\" y=\"138.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"75.00\" y1=\"150.00\" x2=\"75.00\" y2=\"185.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"68.20\" y=\"198.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"120.00\" y1=\"114.00\" x2=\"120.00\" y2=\"57.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"113.20\" y=\"44.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"282.00\" y=\"131.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text></svg>",
+          "alt": "六員環糖のHaworth投影。環内にOがあり、C1・C4のOHは下、C2・C3のOHとCH₂OHは上。"
+        }
+      ],
+      "source": [
+        "https://iupac.qmul.ac.uk/2carb/02.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/03n04.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.eng.kagawa-u.ac.jp/~tishii/raresugar/English%20ver/Mannose.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.jstage.jst.go.jp/article/nogeikagaku1924/55/3/55_3_209/_article/-char/en",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.jstage.jst.go.jp/article/bbb1961/44/2/44_2_245/_article/-char/en"
+      ]
+    },
+    {
+      "id": "occurrence_rna",
+      "conceptId": "rna",
+      "condition": [
+        "RNAのnucleotideの糖成分であるaldopentoseは"
+      ],
+      "answers": [
+        [
+          "D-Ribose"
+        ]
+      ],
+      "explanation": [
+        "RNAのnucleotideにはD-Riboseが糖残基として組み込まれている。ATPにもD-Riboseが含まれる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D-Ribose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"255.00,146.00 219.91,194.62 224.09,197.38\" fill=\"#111\"/><line x1=\"222.00\" y1=\"196.00\" x2=\"118.00\" y2=\"196.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"85.00,146.00 115.91,197.38 120.09,194.62\" fill=\"#111\"/><line x1=\"85.00\" y1=\"146.00\" x2=\"160.23\" y2=\"107.06\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"179.77\" y1=\"107.06\" x2=\"255.00\" y2=\"146.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"170.00\" y=\"102.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"255.00\" y1=\"146.00\" x2=\"255.00\" y2=\"101.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"248.20\" y=\"88.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"222.00\" y1=\"196.00\" x2=\"222.00\" y2=\"232.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"215.20\" y=\"245.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"118.00\" y1=\"196.00\" x2=\"118.00\" y2=\"232.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"111.20\" y=\"245.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"85.00\" y1=\"146.00\" x2=\"85.00\" y2=\"95.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"78.20\" y=\"82.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"272.00\" y=\"127.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text></svg>",
+          "alt": "五員環糖のHaworth投影。C1のOHとCH₂OHは上、C2・C3のOHは下。"
+        }
+      ],
+      "source": [
+        "https://iupac.qmul.ac.uk/2carb/02.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/03n04.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://oyc.yale.edu/chemistry/chem-125b/lecture-37",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://openstax.org/books/organic-chemistry/pages/28-1-nucleotides-and-nucleic-acids",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.genome.gov/genetics-glossary/Nucleotide",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.bch.cuhk.edu.hk/vr_biomolecules/nucleotide.html"
+      ]
+    },
+    {
+      "id": "occurrence_dna",
+      "conceptId": "dna",
+      "condition": [
+        "DNAのnucleotideの糖成分で、D-RiboseのC2のOHがHに対応する糖は"
+      ],
+      "answers": [
+        [
+          "2-Deoxy-D-ribose"
+        ]
+      ],
+      "explanation": [
+        "DNAの糖成分は2-Deoxy-D-riboseである。RNAのRiboseと比べるとC2の置換基がOHからHに対応し、C2はCH₂となる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "2-Deoxy-D-ribose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"255.00,146.00 219.91,194.62 224.09,197.38\" fill=\"#111\"/><line x1=\"222.00\" y1=\"196.00\" x2=\"118.00\" y2=\"196.00\" stroke=\"#111\" stroke-width=\"5.00\" stroke-linecap=\"round\"/><polygon points=\"85.00,146.00 115.91,197.38 120.09,194.62\" fill=\"#111\"/><line x1=\"85.00\" y1=\"146.00\" x2=\"160.23\" y2=\"107.06\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><line x1=\"179.77\" y1=\"107.06\" x2=\"255.00\" y2=\"146.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"170.00\" y=\"102.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"22.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"255.00\" y1=\"146.00\" x2=\"255.00\" y2=\"101.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"248.20\" y=\"88.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"118.00\" y1=\"196.00\" x2=\"118.00\" y2=\"232.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"111.20\" y=\"245.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"85.00\" y1=\"146.00\" x2=\"85.00\" y2=\"95.00\" stroke=\"#111\" stroke-width=\"1.80\" stroke-linecap=\"round\"/><text x=\"78.20\" y=\"82.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"20.00\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"272.00\" y=\"127.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text></svg>",
+          "alt": "五員環糖のHaworth投影。C1のOHとCH₂OHは上、C3のOHは下。C2にはOHがなくCH₂となる。"
+        }
+      ],
+      "source": [
+        "https://iupac.qmul.ac.uk/2carb/02.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/03n04.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://openstax.org/books/organic-chemistry/pages/28-1-nucleotides-and-nucleic-acids",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://openstax.org/books/concepts-biology/pages/9-1-the-structure-of-dna",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.genome.gov/genetics-glossary/Nucleotide"
+      ]
+    },
+    {
+      "id": "occurrence_malt",
+      "conceptId": "malt",
+      "condition": [
+        "発芽した大麦で、β-AmylaseによるStarchの分解で生じる二糖は"
+      ],
+      "answers": [
+        [
+          "Maltose"
+        ]
+      ],
+      "explanation": [
+        "β-AmylaseはStarchの非還元末端からMaltose単位を切り出す。MaltoseはMaltaseにより加水分解され、D-Glucoseを2分子生じる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "Maltose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"270\" viewBox=\"0 0 360 270\"><rect width=\"360\" height=\"270\" fill=\"white\"/><polygon points=\"146.80,120.00 117.00,141.79 119.00,144.29\" fill=\"#111\"/><line x1=\"118.00\" y1=\"143.04\" x2=\"54.00\" y2=\"143.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"25.20,120.00 53.00,144.29 55.00,141.79\" fill=\"#111\"/><line x1=\"25.20\" y1=\"120.00\" x2=\"54.00\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"54.00\" y1=\"96.96\" x2=\"110.96\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"123.50\" y1=\"101.36\" x2=\"146.80\" y2=\"120.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"118.00\" y=\"96.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"118.00\" y1=\"143.04\" x2=\"118.00\" y2=\"165.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"113.65\" y=\"173.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"143.04\" x2=\"54.00\" y2=\"120.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"112.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"25.20\" y1=\"120.00\" x2=\"25.20\" y2=\"142.40\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"20.85\" y=\"150.72\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"96.96\" x2=\"54.00\" y2=\"60.48\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"52.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"157.68\" y=\"107.84\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text><polygon points=\"334.80,120.00 305.00,141.79 307.00,144.29\" fill=\"#111\"/><line x1=\"306.00\" y1=\"143.04\" x2=\"242.00\" y2=\"143.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"213.20,120.00 241.00,144.29 243.00,141.79\" fill=\"#111\"/><line x1=\"213.20\" y1=\"120.00\" x2=\"242.00\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"242.00\" y1=\"96.96\" x2=\"298.96\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"311.50\" y1=\"101.36\" x2=\"334.80\" y2=\"120.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"306.00\" y=\"96.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"334.80\" y1=\"120.00\" x2=\"334.80\" y2=\"93.76\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"330.45\" y=\"85.44\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"306.00\" y1=\"143.04\" x2=\"306.00\" y2=\"165.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"301.65\" y=\"173.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"242.00\" y1=\"143.04\" x2=\"242.00\" y2=\"120.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"237.65\" y=\"112.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"242.00\" y1=\"96.96\" x2=\"242.00\" y2=\"60.48\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"237.65\" y=\"52.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"202.32\" y=\"107.84\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C4</text><line x1=\"146.80\" y1=\"120.00\" x2=\"172.43\" y2=\"147.02\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><line x1=\"213.20\" y1=\"120.00\" x2=\"187.57\" y2=\"147.02\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><text x=\"180.00\" y=\"155.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"17.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><text x=\"180.00\" y=\"248.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"16.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">α(1→4)</text></svg>",
+          "alt": "二糖のHaworth投影。図中の結合位置番号とα・β、OHの上下を参照する。"
+        }
+      ],
+      "source": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/439186",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/439186/property/IsomericSMILES/JSON",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/36.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.oxfordlearnersdictionaries.com/definition/english/maltose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://guides.hostos.cuny.edu/che120/chapter6",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/2.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/20.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/1.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://researchportal.hw.ac.uk/en/publications/studies-on-carbohydrate-metabolising-enzymes-part-xxiv-the-action/"
+      ]
+    },
+    {
+      "id": "occurrence_milk",
+      "conceptId": "milk",
+      "condition": [
+        "牛乳に含まれる代表的な二糖は"
+      ],
+      "answers": [
+        [
+          "Lactose"
+        ]
+      ],
+      "explanation": [
+        "牛乳の代表的な二糖はLactoseである。Lactaseによる加水分解でD-GalactoseとD-Glucoseを1分子ずつ生じる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "Lactose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"300\" viewBox=\"0 0 360 300\"><rect width=\"360\" height=\"300\" fill=\"white\"/><polygon points=\"146.80,155.00 117.00,176.79 119.00,179.29\" fill=\"#111\"/><line x1=\"118.00\" y1=\"178.04\" x2=\"54.00\" y2=\"178.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"25.20,155.00 53.00,179.29 55.00,176.79\" fill=\"#111\"/><line x1=\"25.20\" y1=\"155.00\" x2=\"54.00\" y2=\"131.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"54.00\" y1=\"131.96\" x2=\"110.96\" y2=\"131.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"123.50\" y1=\"136.36\" x2=\"146.80\" y2=\"155.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"118.00\" y=\"131.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"118.00\" y1=\"178.04\" x2=\"118.00\" y2=\"200.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"113.65\" y=\"208.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"178.04\" x2=\"54.00\" y2=\"155.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"147.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"25.20\" y1=\"155.00\" x2=\"25.20\" y2=\"132.60\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"20.85\" y=\"124.28\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"131.96\" x2=\"54.00\" y2=\"95.48\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"87.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><polygon points=\"334.80,85.00 305.00,106.79 307.00,109.29\" fill=\"#111\"/><line x1=\"306.00\" y1=\"108.04\" x2=\"242.00\" y2=\"108.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"213.20,85.00 241.00,109.29 243.00,106.79\" fill=\"#111\"/><line x1=\"213.20\" y1=\"85.00\" x2=\"242.00\" y2=\"61.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"242.00\" y1=\"61.96\" x2=\"298.96\" y2=\"61.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"311.50\" y1=\"66.36\" x2=\"334.80\" y2=\"85.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"306.00\" y=\"61.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"334.80\" y1=\"85.00\" x2=\"334.80\" y2=\"58.76\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"330.45\" y=\"50.44\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"306.00\" y1=\"108.04\" x2=\"306.00\" y2=\"130.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"301.65\" y=\"138.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"242.00\" y1=\"108.04\" x2=\"242.00\" y2=\"85.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"237.65\" y=\"77.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"242.00\" y1=\"61.96\" x2=\"242.00\" y2=\"25.48\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"237.65\" y=\"17.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"202.32\" y=\"72.84\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C4</text><text x=\"155.80\" y=\"176.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text><line x1=\"146.80\" y1=\"155.00\" x2=\"172.43\" y2=\"127.98\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><line x1=\"213.20\" y1=\"85.00\" x2=\"187.57\" y2=\"112.02\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><text x=\"180.00\" y=\"120.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"17.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><text x=\"180.00\" y=\"278.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"16.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">β(1→4)</text></svg>",
+          "alt": "二糖のHaworth投影。図中の結合位置番号とα・β、OHの上下を参照する。"
+        }
+      ],
+      "source": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/6134",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6134/property/IsomericSMILES/JSON",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/36.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://guides.hostos.cuny.edu/che120/chapter6",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/108.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/23.html"
+      ]
+    },
+    {
+      "id": "occurrence_cane",
+      "conceptId": "cane",
+      "condition": [
+        "サトウキビの汁から取り出され、砂糖の主成分となる二糖は"
+      ],
+      "answers": [
+        [
+          "Sucrose"
+        ]
+      ],
+      "explanation": [
+        "Sucroseはサトウキビの汁に含まれ、製糖原料となる。Invertaseによる加水分解でD-GlucoseとD-Fructoseを1分子ずつ生じる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "Sucrose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"270\" viewBox=\"0 0 360 270\"><rect width=\"360\" height=\"270\" fill=\"white\"/><polygon points=\"146.80,120.00 117.00,141.79 119.00,144.29\" fill=\"#111\"/><line x1=\"118.00\" y1=\"143.04\" x2=\"54.00\" y2=\"143.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"25.20,120.00 53.00,144.29 55.00,141.79\" fill=\"#111\"/><line x1=\"25.20\" y1=\"120.00\" x2=\"54.00\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"54.00\" y1=\"96.96\" x2=\"110.96\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"123.50\" y1=\"101.36\" x2=\"146.80\" y2=\"120.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"118.00\" y=\"96.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"118.00\" y1=\"143.04\" x2=\"118.00\" y2=\"165.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"113.65\" y=\"173.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"143.04\" x2=\"54.00\" y2=\"120.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"112.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"25.20\" y1=\"120.00\" x2=\"25.20\" y2=\"142.40\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"20.85\" y=\"150.72\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"96.96\" x2=\"54.00\" y2=\"60.48\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"52.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"157.68\" y=\"107.84\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text><polygon points=\"219.60,117.44 239.38,150.32 242.06,148.56\" fill=\"#111\"/><line x1=\"240.72\" y1=\"149.44\" x2=\"307.28\" y2=\"149.44\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"328.40,117.44 305.94,148.56 308.62,150.32\" fill=\"#111\"/><line x1=\"328.40\" y1=\"117.44\" x2=\"280.25\" y2=\"92.52\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"267.75\" y1=\"92.52\" x2=\"219.60\" y2=\"117.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"274.00\" y=\"89.28\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"219.60\" y1=\"117.44\" x2=\"203.60\" y2=\"89.28\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"195.15\" y=\"80.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"11.52\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><line x1=\"240.72\" y1=\"149.44\" x2=\"240.72\" y2=\"171.84\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"236.37\" y=\"180.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"307.28\" y1=\"149.44\" x2=\"307.28\" y2=\"127.04\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"302.93\" y=\"118.72\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"328.40\" y1=\"117.44\" x2=\"328.40\" y2=\"150.08\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"336.08\" y=\"158.40\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"#111\">HOCH₂</text><text x=\"221.60\" y=\"96.44\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C2</text><line x1=\"146.80\" y1=\"120.00\" x2=\"172.43\" y2=\"147.02\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><line x1=\"219.60\" y1=\"117.44\" x2=\"187.98\" y2=\"147.43\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><text x=\"180.00\" y=\"155.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"17.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><text x=\"180.00\" y=\"248.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"16.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">α(1↔2)β</text></svg>",
+          "alt": "二糖のHaworth投影。図中の結合位置番号とα・β、OHの上下を参照する。"
+        }
+      ],
+      "source": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/5988",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5988/property/IsomericSMILES/JSON",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/36.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.oxfordlearnersdictionaries.com/definition/english/sucrose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://guides.hostos.cuny.edu/che120/chapter6",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/26.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/48.html"
+      ]
+    },
+    {
+      "id": "occurrence_yeast_trehalose",
+      "conceptId": "yeast_trehalose",
+      "condition": [
+        "酵母が貯蔵糖として蓄え、Glucose残基2個がα,α(1↔1)結合した二糖は"
+      ],
+      "answers": [
+        [
+          "Trehalose"
+        ]
+      ],
+      "explanation": [
+        "Trehaloseは酵母などの菌類の貯蔵糖である。Trehalaseによる加水分解でD-Glucoseを2分子生じる。"
+      ],
+      "figures": [
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "Trehalose",
+        {
+          "type": "br"
+        },
+        {
+          "type": "svg",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"360\" height=\"270\" viewBox=\"0 0 360 270\"><rect width=\"360\" height=\"270\" fill=\"white\"/><polygon points=\"146.80,120.00 117.00,141.79 119.00,144.29\" fill=\"#111\"/><line x1=\"118.00\" y1=\"143.04\" x2=\"54.00\" y2=\"143.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"25.20,120.00 53.00,144.29 55.00,141.79\" fill=\"#111\"/><line x1=\"25.20\" y1=\"120.00\" x2=\"54.00\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"54.00\" y1=\"96.96\" x2=\"110.96\" y2=\"96.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"123.50\" y1=\"101.36\" x2=\"146.80\" y2=\"120.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"118.00\" y=\"96.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"118.00\" y1=\"143.04\" x2=\"118.00\" y2=\"165.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"113.65\" y=\"173.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"143.04\" x2=\"54.00\" y2=\"120.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"112.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"25.20\" y1=\"120.00\" x2=\"25.20\" y2=\"142.40\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"20.85\" y=\"150.72\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"54.00\" y1=\"96.96\" x2=\"54.00\" y2=\"60.48\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"49.65\" y=\"52.16\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">CH₂OH</text><text x=\"157.68\" y=\"107.84\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text><polygon points=\"189.20,164.00 217.00,188.29 219.00,185.79\" fill=\"#111\"/><line x1=\"218.00\" y1=\"187.04\" x2=\"282.00\" y2=\"187.04\" stroke=\"#111\" stroke-width=\"3.20\" stroke-linecap=\"round\"/><polygon points=\"310.80,164.00 281.00,185.79 283.00,188.29\" fill=\"#111\"/><line x1=\"310.80\" y1=\"164.00\" x2=\"282.00\" y2=\"140.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"282.00\" y1=\"140.96\" x2=\"225.04\" y2=\"140.96\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><line x1=\"212.50\" y1=\"145.36\" x2=\"189.20\" y2=\"164.00\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"218.00\" y=\"140.96\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"14.08\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><line x1=\"218.00\" y1=\"187.04\" x2=\"218.00\" y2=\"164.64\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"213.65\" y=\"156.32\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"282.00\" y1=\"187.04\" x2=\"282.00\" y2=\"209.44\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"277.65\" y=\"217.76\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"310.80\" y1=\"164.00\" x2=\"310.80\" y2=\"141.60\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"306.45\" y=\"133.28\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"start\" dominant-baseline=\"middle\" fill=\"#111\">OH</text><line x1=\"282.00\" y1=\"140.96\" x2=\"282.00\" y2=\"154.40\" stroke=\"#111\" stroke-width=\"1.15\" stroke-linecap=\"round\"/><text x=\"289.68\" y=\"162.72\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.80\" text-anchor=\"end\" dominant-baseline=\"middle\" fill=\"#111\">HOCH₂</text><text x=\"179.20\" y=\"184.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"12.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#666\">C1</text><line x1=\"146.80\" y1=\"120.00\" x2=\"170.83\" y2=\"135.92\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><line x1=\"189.20\" y1=\"164.00\" x2=\"184.24\" y2=\"152.15\" stroke=\"#111\" stroke-width=\"1.60\" stroke-linecap=\"round\"/><text x=\"180.00\" y=\"142.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"17.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">O</text><text x=\"180.00\" y=\"248.00\" font-family=\"Arial,Helvetica,sans-serif\" font-size=\"16.00\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"#111\">α,α(1↔1)</text></svg>",
+          "alt": "二糖のHaworth投影。図中の結合位置番号とα・β、OHの上下を参照する。"
+        }
+      ],
+      "source": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/7427",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/7427/property/IsomericSMILES/JSON",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/05.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/06n07.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/2carb/36.html",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iupac.qmul.ac.uk/drawing/stereo.html#ST19",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://www.asau.ru/files/pdf/2330484.pdf",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://pathway.yeastgenome.org/cpd-tab?id=TREHALOSE&orgid=META&tab=SUMMARY",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://journals.asm.org/doi/10.1128/mmbr.00053-16",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "https://iubmb.qmul.ac.uk/enzyme/EC3/2/1/28.html"
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "source_to_sugar",
+      "label": "含有・構成成分 → 糖",
+      "tokens": [
+        {
+          "type": "key",
+          "field": "condition"
+        },
+        {
+          "type": "hide",
+          "id": "answer",
+          "display": "inline",
+          "value": [
+            {
+              "type": "listkey",
+              "field": "answers",
+              "separatorTokens": [
+                "・"
+              ]
+            }
+          ],
+          "answer": {
+            "mode": "choice_from_entities"
+          }
+        },
+        "である。"
+      ],
+      "tips": [
+        {
+          "id": "explanation",
+          "when": "after_answer",
+          "tokens": [
+            {
+              "type": "key",
+              "field": "explanation"
+            }
+          ]
+        },
+        {
+          "id": "figures",
+          "when": "after_answer",
+          "tokens": [
+            {
+              "type": "key",
+              "field": "figures"
+            }
+          ]
+        },
+        {
+          "id": "source",
+          "when": "after_answer",
+          "tokens": [
+            {
+              "type": "br"
+            },
+            {
+              "type": "br"
+            },
+            "出典",
+            {
+              "type": "br"
+            },
+            {
+              "type": "key",
+              "field": "source"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

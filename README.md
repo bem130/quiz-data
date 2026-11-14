@@ -16,7 +16,7 @@ GitHub Actionsが`main`へのpushでGitHub Pagesへ自動公開する。Raw URL�
 https://raw.githubusercontent.com/bem130/quiz-data/main/entry-v3.json
 ```
 
-一覧ファイル名は`entry-v3.json`である。`entry.json`も同じ5種類を参照する互換用の入口として維持する。
+一覧ファイル名は`entry-v3.json`である。`entry.json`も同じ7種類を参照する互換用の入口として維持する。
 
 ## 収録内容
 
@@ -27,8 +27,10 @@ https://raw.githubusercontent.com/bem130/quiz-data/main/entry-v3.json
 | `sugar-detection-v3.json` | 糖類の検出反応・加水分解・電子収支 | 24 |
 | `sugar-names-v3.json` | 糖10種の構造と名称・双方向 | 20 |
 | `amino-acid-names-v3.json` | 標準amino acid 20種の構造と名称・双方向 | 40 |
+| `sugar-occurrence-v3.json` | 糖の含有・構成成分・生成源 | 10 |
+| `sugar-hydrolysis-v3.json` | 二糖の基質・酵素・生成物 | 12 |
 
-合計245問。構造式SVG、反応式、解説、出典は各JSONに収録する。
+合計267問。構造式SVG、反応式、解説、出典は各JSONに収録する。名称問題の解説には語源、存在例、直接関連する反応・酵素も収録する。
 
 糖の環構造・anomer・glycosidic結合にはHaworth投影式、鎖状構造・立体配置の比較にはFischer投影式を用いる。反応位置や結合位置の説明に必要な炭素番号を図に付記する。
 
@@ -36,7 +38,9 @@ Haworth図は下側を手前とする視点に揃え、奥側の環結合を細�
 
 名称問題では各糖・amino acidをtableの1行として、名前と構造を一対一に対応づける。`choice_from_entities`で他の行から選択肢を生成し、構造から名称、名称から構造の両方向を出題する。
 
-`standalone-choice-v3.json`は通常の択一問題のサンプルとして残している。一覧には上記5種類を登録している。
+含有問題は、蜂蜜のGlucose／Fructoseなどを`listkey`の正答集合として表す。二糖の酵素問題は1反応をtableの1行とし、酵素から基質、基質から酵素を出題する。生成物を問うpatternは各行の`productChoices`から4択を生成する。各穴埋めは`display: "inline"`を用い、pattern直下に解答欄を1個持つ。
+
+`standalone-choice-v3.json`は通常の択一問題のサンプルとして残している。一覧には上記7種類を登録している。
 
 ## 更新
 

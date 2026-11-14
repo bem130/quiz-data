@@ -6,6 +6,8 @@
     "./amino-protein-detection-v3.json",
     "./sugar-detection-v3.json",
     "./sugar-names-v3.json",
-    "./amino-acid-names-v3.json"
+    "./amino-acid-names-v3.json",
+    "./sugar-occurrence-v3.json",
+    "./sugar-hydrolysis-v3.json"
   ]
 }

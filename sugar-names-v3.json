@@ -21,7 +21,14 @@
         {
           "type": "br"
         },
-        "図はα-D-Glucopyranoseである。C1のOHは下、C2のOHは下、C3のOHは上、C4のOHは下である。β形ではC1のOHだけが反転する。"
+        "図はα-D-Glucopyranoseである。Pyranoseは環内Oを1個含む六員環を表す。C1のOHは下、C2のOHは下、C3のOHは上、C4のOHは下である。β形ではC1のOHだけが反転する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D系列は、鎖状形の最大番号の不斉炭素の配置がD-glyceraldehydeに対応する糖である。標準的なFischer投影では、その炭素のOHが右に位置する。"
       ],
       "structureNote": [
         "Haworth投影の太線は環の手前側を表す。OH・CH₂OHの上下から立体配置を読み取る。",
@@ -149,7 +156,14 @@
         {
           "type": "br"
         },
-        "図はβ-D-Fructofuranoseである。五員環で、anomeric炭素はC2である。C2にはOHとC1のCH₂OHが結合し、C5にはC6のCH₂OHが結合する。C3のOHは上、C4のOHは下である。"
+        "図はβ-D-Fructofuranoseである。Furanoseは環内Oを1個含む五員環を表す。Anomeric炭素はC2である。C2にはOHとC1のCH₂OHが結合し、C5にはC6のCH₂OHが結合する。C3のOHは上、C4のOHは下である。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D系列は、鎖状形の最大番号の不斉炭素の配置がD-glyceraldehydeに対応する糖である。標準的なFischer投影では、その炭素のOHが右に位置する。"
       ],
       "structureNote": [
         "Haworth投影の太線は環の手前側を表す。OH・CH₂OHの上下から立体配置を読み取る。",
@@ -247,7 +261,21 @@
         {
           "type": "br"
         },
-        "図はα-D-Galactopyranoseである。D-Glucoseと比較するとC4のOHの上下が反転している。"
+        "図はα-D-Galactopyranoseである。D-Glucoseと比較するとC4のOHの上下が反転している。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D系列は、鎖状形の最大番号の不斉炭素の配置がD-glyceraldehydeに対応する糖である。標準的なFischer投影では、その炭素のOHが右に位置する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "Pyranoseは環内Oを1個含む六員環を表す。"
       ],
       "structureNote": [
         "Haworth投影の太線は環の手前側を表す。OH・CH₂OHの上下から立体配置を読み取る。",
@@ -375,7 +403,21 @@
         {
           "type": "br"
         },
-        "図はα-D-Mannopyranoseである。D-Glucoseと比較するとC2のOHの上下が反転している。"
+        "図はα-D-Mannopyranoseである。D-Glucoseと比較するとC2のOHの上下が反転している。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D系列は、鎖状形の最大番号の不斉炭素の配置がD-glyceraldehydeに対応する糖である。標準的なFischer投影では、その炭素のOHが右に位置する。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "Pyranoseは環内Oを1個含む六員環を表す。"
       ],
       "structureNote": [
         "Haworth投影の太線は環の手前側を表す。OH・CH₂OHの上下から立体配置を読み取る。",
@@ -503,7 +545,14 @@
         {
           "type": "br"
         },
-        "図はβ-D-Ribofuranoseである。五員環で、C2・C3のOHはいずれも下に位置する。"
+        "図はβ-D-Ribofuranoseである。Furanoseは環内Oを1個含む五員環を表す。C2・C3のOHはいずれも下に位置する。2-Deoxy-D-riboseは、D-RiboseのC2のOHをHに置き換えた構造であり、C2はCH₂となる。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D系列は、鎖状形の最大番号の不斉炭素の配置がD-glyceraldehydeに対応する糖である。標準的なFischer投影では、その炭素のOHが右に位置する。"
       ],
       "structureNote": [
         "Haworth投影の太線は環の手前側を表す。OH・CH₂OHの上下から立体配置を読み取る。",
@@ -594,14 +643,21 @@
         {
           "type": "br"
         },
-        "炭素5個のaldose誘導体であり、C2はCH₂である。C3・C4のOHは右に位置する。",
+        "炭素5個のaldose誘導体であり、C3・C4のOHはFischer投影で右に位置する。",
         {
           "type": "br"
         },
         {
           "type": "br"
         },
-        "図は2-Deoxy-β-D-ribofuranoseである。D-Riboseとの違いはC2のOHがHに置換されている点である。省略されたC2はCH₂に相当する。"
+        "図は2-Deoxy-β-D-ribofuranoseである。2-Deoxyは、D-RiboseのC2のOHをHに置き換えた構造を表す。C2はCH₂となる。Furanoseは環内Oを1個含む五員環を表す。",
+        {
+          "type": "br"
+        },
+        {
+          "type": "br"
+        },
+        "D系列は、鎖状形の最大番号の不斉炭素の配置がD-glyceraldehydeに対応する糖である。標準的なFischer投影では、その炭素のOHが右に位置する。"
       ],
       "structureNote": [
         "Haworth投影の太線は環の手前側を表す。OH・CH₂OHの上下から立体配置を読み取る。",
